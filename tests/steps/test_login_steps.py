@@ -14,7 +14,7 @@ scenarios("login_page.feature")
 
        
 @given("I am on the Login Page")
-def I_am_on_the_Login_Page(login_page):
+def I_am_on_the_Login_Page(page):
     pass
       
       
